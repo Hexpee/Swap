@@ -1,7 +1,6 @@
-print()
-print()
 num1=int(input("enter number 1:"))
 num2=int(input("Enter number 2:"))
+#the swap vairiable
 swap=num1
 num1=num2
 num2=swap
